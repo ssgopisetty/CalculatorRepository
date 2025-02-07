@@ -1,4 +1,4 @@
-# Contributing to [Your Project Name]
+# Contributing to CALCULATOR PROJECT
 
 We welcome contributions from everyone! Here's how you can help:
 
