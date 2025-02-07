@@ -1,3 +1,4 @@
+2023 XYZ INC
 # Contributing to CALCULATOR PROJECT
 
 We welcome contributions from everyone! Here's how you can help:
